@@ -1,0 +1,6 @@
+C:\Users\810052\source\repos\Complex2\bin\Debug\Complex2.exe.config
+C:\Users\810052\source\repos\Complex2\bin\Debug\Complex2.exe
+C:\Users\810052\source\repos\Complex2\bin\Debug\Complex2.pdb
+C:\Users\810052\source\repos\Complex2\obj\Debug\Complex2.csproj.CoreCompileInputs.cache
+C:\Users\810052\source\repos\Complex2\obj\Debug\Complex2.exe
+C:\Users\810052\source\repos\Complex2\obj\Debug\Complex2.pdb
